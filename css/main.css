@@ -1,0 +1,11 @@
+main {text-align: center;}
+
+p{
+	font-size: 30px;
+	font: Myriad pro;
+}
+
+.icons {
+	display: block;	
+	width: 100%
+    }
